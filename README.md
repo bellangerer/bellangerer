@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Isabella, a bootcamp student from Vienna, Austria 🇦🇹🎿
+I'm Isabella, a bootcamp graduate from Vienna, Austria 🇦🇹🎿
 
 ### 👩‍💻 About me 
 I like to challenge myself, step into the unknown and learn new programming languages like phyton.
